@@ -6,19 +6,19 @@ baseurl: ""
 url: "http://jamessjackson.com"
 title_description: "Description Here"
 title_image: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAArqAAAAJDIyNTk0ZWU0LWRiMDAtNGVjZC1hN2M2LWNkMmY3YTQyN2IyOA.jpg"
-google_analytics: "UA-20365477-4"
+# google_analytics: ""
 github_repository: https://github.com/superjax
-addthis_id: ra-513c6fa83da6ec67
-post_limit: 5
+# addthis_id:
+post_limit: 10
 
 # Social usernames/URLs
 twitter_username: jsjacks0n
 github_username:  superjax
-instagram_username:
-reddit_username:
+# instagram_username:
+# reddit_username:
 linkedin_link: https://www.linkedin.com/in/superjax08/
-xing_link:
-facebook_link:
+# xing_link:
+# facebook_link:
 
 # Footer
 footer_left: "Based on Carte-Noire Theme by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
