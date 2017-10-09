@@ -1,4 +1,4 @@
 #!/bin/bash
 
 jekyll build
-rsync -r _site/* jamessja@jamessjackson.com:~/public_html/.
+scp -r _site/* jamessja@jamessjackson.com:~/public_html/.
