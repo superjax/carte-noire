@@ -12,7 +12,6 @@ Here's my solution (it's a major hack).  All you do is modify the `nodeprocess.p
 Here's my new `/opt/ros/kinetic/lib/python2.7/dist-packages/roslaunch/nodeprocess.py:56`
 
 {% highlight python %}
-import logging
 _TIMEOUT_SIGINT  = 1.0 #seconds (used to be 15.0)
 _TIMEOUT_SIGTERM = 0.5 #seconds (used to be 2.0)
 
