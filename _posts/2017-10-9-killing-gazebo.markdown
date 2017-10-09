@@ -5,7 +5,7 @@ date:   2017-10-9 13:10:55 -0600
 categories: ROS, gazebo, kinetic, xenial, gazebo 7
 ---
 
-As a ROS developer, I do a lot of development with Gazebo.  A problem that has plagued me has been the fact that gazebo doesn't listen to the `Ctrl-C` command, and instead needs a `SIGTERM`.  This is super frustrating, because I have to wait something like 15 seconds before it finally dies, and when I'm trying to develop a controller, that time is valuable.
+I do a lot of development with Gazebo.  A problem that has plagued me has been the fact that gazebo doesn't listen to the `Ctrl-C` command, and instead needs a `SIGTERM`.  This is super frustrating, because I have to wait something like 15 seconds before it finally dies, and when I'm trying to develop a controller, that time is valuable.
 
 Here's my solution (it's a major hack).  All you do is modify the `nodeprocess.py` file (an internal ROS file) and reduce that 15 second wait before a `SIGTERM` to something a little shorter and less hair pulling.
 
