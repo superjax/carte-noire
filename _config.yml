@@ -6,9 +6,10 @@ baseurl: ""
 url: "http://jamessjackson.com"
 title_description: "Description Here"
 title_image: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAArqAAAAJDIyNTk0ZWU0LWRiMDAtNGVjZC1hN2M2LWNkMmY3YTQyN2IyOA.jpg"
-# google_analytics: ""
+google_analytics: "UA-55384642-6"
+disqus_account: jamessjackson
 github_repository: https://github.com/superjax
-# addthis_id:
+addthis_id:
 post_limit: 10
 
 # Social usernames/URLs
