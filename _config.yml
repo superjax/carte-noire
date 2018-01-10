@@ -1,11 +1,11 @@
 # Site settings
-title: "My Blog Title"
+title: "Robotics Notes from a Grad Student"
 email: superjax08@gmail.com
-description: "A clever description here"
+description: "Hi, I'm a graduate student of Mechanical Engineering at Brigham Young University in Provo, UT.  This is my blog, where I've put a bunch of reminders of things I want to remember."
 baseurl: ""
 url: "http://jamessjackson.com"
-title_description: "Description Here"
-title_image: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAArqAAAAJDIyNTk0ZWU0LWRiMDAtNGVjZC1hN2M2LWNkMmY3YTQyN2IyOA.jpg"
+title_description: "Hi, I'm a graduate student of Mechanical Engineering at Brigham Young University in Provo, UT.  This is my blog, where I've put a bunch of reminders of things I want to remember."
+title_image: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAIABADGAAAAAQAAAAAAAAnlAAAAJGFiYmQ0MTM4LTI5NjYtNGM3Ny05YWRkLTVmMTRlYmQ5MmQ3Mg.jpg"
 google_analytics: "UA-55384642-6"
 disqus_account: jamessjackson
 github_repository: https://github.com/superjax

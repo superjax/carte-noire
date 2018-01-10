@@ -560,15 +560,15 @@ ul {
 		}
 
 		.content {
-			font-size: 18px;
-			line-height: 170%;
+			font-size: 14px;
+			line-height: 150%;
 			padding-left: 15px;
 			padding-right: 15px;
 			padding-top: 10px;
 			padding-bottom: 10px;
 
 			@media (min-width: $screen-sm-min) {
-				font-size: 24px;
+				font-size: 18px;
 				padding-left: 30px;
 				padding-right: 30px;
 				padding-top: 40px;
